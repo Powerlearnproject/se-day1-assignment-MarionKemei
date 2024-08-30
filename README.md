@@ -58,13 +58,12 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
      
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
-
-    Roles:
+Roles:
         Analyze, design, and develop software solutions
         Code and implement software components
         Perform unit and integration testing
         Collaborate with other team members to ensure technical alignment
-    Responsibilities:
+Responsibilities:
         Create high-quality, bug-free code
         Meet project deadlines and specifications
         Stay updated with the latest programming languages and technologies
