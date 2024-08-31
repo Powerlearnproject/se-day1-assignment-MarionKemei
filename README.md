@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 
 Explain what software engineering is and discuss its importance in the technology industry.
-    Software Engineering is the process of designing, developing, testing, deploying, and maintaining software products.It involves application of engineering principles, methods  and tools to develop and maintain high-quality software systens.
+   It is the process of designing, developing, testing, deploying, and maintaining software .It involves application of engineering principles, methods  and tools to develop and maintain high-quality software systens.
     
   **Importance of Software Engineering**: It enables creation of software applications that powers modern life in all aspects. Generally, it drives innovation, ensures reliablility, security and  supports the global community.
 
@@ -57,6 +57,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
       Ideal for projects where requirements are expected to evolve. For example, developing a new mobile app where user feedback is crucial for ongoing improvements.
      
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer
 Roles:
         Analyze, design, and develop software solutions
@@ -70,8 +71,7 @@ Responsibilities:
         Maintain and enhance existing software
 
 Quality Assurance Engineer (QA)
-
-    Roles:
+Roles:
         Define and execute test plans
         Conduct functional, integration, and performance testing
         Report and track bugs
@@ -152,6 +152,15 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt: Software Engineering
+Improved:Briefly explain what software Engineering is.
+Improved prompt is more effective because it’s clear and specific, helping the robot (or an AI) give you the best answer quickly.
+
+
+
+
+
+
+
 Improved prompt: Define software engineering and its importance in the modern life.
 
 Reason  why improved propt is important:  The improved propt is more effective as it directs AI's Focus,it reduces ambiquity and enhance relevance.
